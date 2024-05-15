@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "215501021892",
+    "project_id": "rent-v-flutter-project",
+    "storage_bucket": "rent-v-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215501021892:android:a168a176b1bae600065f91",
+        "android_client_info": {
+          "package_name": "com.error.rentv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215501021892-lj7f8rmqmrdoadv1k4llcddujrmj381m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWNyx7qYBhxPsXlQ17Ek5aDYXTU1Ro3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215501021892-lj7f8rmqmrdoadv1k4llcddujrmj381m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215501021892-9hfi6r0ikqkijobo75vedebjaqaqb2uh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saad.rentv"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215501021892:android:da5a4dfd2dc37d2c065f91",
+        "android_client_info": {
+          "package_name": "com.saad.rent_v"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215501021892-lj7f8rmqmrdoadv1k4llcddujrmj381m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWNyx7qYBhxPsXlQ17Ek5aDYXTU1Ro3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215501021892-lj7f8rmqmrdoadv1k4llcddujrmj381m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215501021892-9hfi6r0ikqkijobo75vedebjaqaqb2uh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saad.rentv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
